@@ -1,0 +1,3 @@
+Cleaning WMI Logs
+
+You need to be Admin to run Batch file 
